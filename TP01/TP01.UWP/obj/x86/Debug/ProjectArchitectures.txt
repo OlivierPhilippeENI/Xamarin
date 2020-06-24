@@ -1,0 +1,1 @@
+D:\repo\TP01\TP01\TP01.UWP\TP01.UWP.csproj;x86

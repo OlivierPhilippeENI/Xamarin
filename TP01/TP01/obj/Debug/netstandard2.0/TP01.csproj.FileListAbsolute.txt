@@ -1,0 +1,14 @@
+D:\repo\TP01\TP01\TP01\bin\Debug\netstandard2.0\TP01.deps.json
+D:\repo\TP01\TP01\TP01\bin\Debug\netstandard2.0\TP01.dll
+D:\repo\TP01\TP01\TP01\bin\Debug\netstandard2.0\ref\TP01.dll
+D:\repo\TP01\TP01\TP01\bin\Debug\netstandard2.0\TP01.pdb
+D:\repo\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.csprojAssemblyReference.cache
+D:\repo\TP01\TP01\TP01\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\repo\TP01\TP01\TP01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\repo\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.AssemblyInfoInputs.cache
+D:\repo\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.AssemblyInfo.cs
+D:\repo\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.csproj.CoreCompileInputs.cache
+D:\repo\TP01\TP01\TP01\obj\Debug\netstandard2.0\XamlC.stamp
+D:\repo\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.dll
+D:\repo\TP01\TP01\TP01\obj\Debug\netstandard2.0\ref\TP01.dll
+D:\repo\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.pdb
